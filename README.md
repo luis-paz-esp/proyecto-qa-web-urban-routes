@@ -23,7 +23,7 @@ El objetivo fue realizar pruebas funcionales y de UI (Interfaz de Usuario) en la
 
 #### A. Diseño de Casos de Prueba
 Diseñé casos de prueba detallados para el botón "Reservar" y listas de comprobación para la UI, asegurando una cobertura completa.
-[Lista de comprobacíon Urban Routes] <img width="1666" height="958" alt="Captura de pantalla 2025-10-21 a la(s) 6 08 47 p m" src="https://github.com/user-attachments/assets/d87e21ce-3044-4bea-ab67-033144018379" />
+ <img width="1666" height="958" alt="Captura de pantalla 2025-10-21 a la(s) 6 08 47 p m" src="https://github.com/user-attachments/assets/d87e21ce-3044-4bea-ab67-033144018379" /> [Lista de comprobacíon Urban Routes]
 
 
 
@@ -32,13 +32,13 @@ Ejecuté las pruebas en dos configuraciones de entorno distintas para asegurar l
 * **Entorno 1:** Google Chrome (Resolución 800x600)
 * **Entorno 2:** Firefox (Resolución 1920x1080)
 
-[DevTools Google Chrome] <img width="1672" height="1010" alt="Captura de pantalla 2025-10-21 a la(s) 6 16 18 p m" src="https://github.com/user-attachments/assets/4798e9e5-f484-4dfd-bf48-8bb45f5129d2" />
+ <img width="1672" height="1010" alt="Captura de pantalla 2025-10-21 a la(s) 6 16 18 p m" src="https://github.com/user-attachments/assets/4798e9e5-f484-4dfd-bf48-8bb45f5129d2" /> [DevTools Google Chrome]
 
 
 #### C. Reporte de Errores en Jira
 Identifiqué y reporté más de 10 errores, tanto de funcionalidad (ej. botones que no funcionan) como de UI (ej. elementos de diseño desalineados). Cada reporte en Jira incluyó los pasos de reproducción, el resultado esperado vs. el actual, y la severidad.
 
-[Informe de errores (JIRA)] <img width="1438" height="909" alt="Captura de pantalla 2025-10-21 a la(s) 6 11 19 p m" src="https://github.com/user-attachments/assets/8e0deed1-5257-4115-afac-552f29c2c85a" />
+ <img width="1438" height="909" alt="Captura de pantalla 2025-10-21 a la(s) 6 11 19 p m" src="https://github.com/user-attachments/assets/8e0deed1-5257-4115-afac-552f29c2c85a" /> [Informe de errores (JIRA)]
 
 ---
 
